@@ -1,0 +1,109 @@
+
+.scrollToTop{
+	background-color: purple;
+}
+.scrollToTop:hover,.scrollToTop:focus{
+  background-color: #fff;
+  color: purple;
+  border: 1px solid purple;
+}
+.navbar-brand > span {
+  color: purple;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
+  color: purple;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: purple;
+}
+.slider_btn:hover,.slider_btn:focus{
+	border-color:purple;
+	color: purple;
+}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after {
+	background: purple;
+}
+.slides-pagination a {
+  border: 2px solid purple;
+}
+.heading h2 {
+  border-bottom: 11px solid purple;
+}
+.panel-title a:hover{
+	color: purple;		
+}
+.panel-title a span{
+  color: purple;		
+}
+.service_icon{
+	background-color: purple;
+}
+
+.single_service:hover .service_icon{	
+	color: purple;
+	border: 2px solid purple;
+	background-color: #fff;
+}
+.single_service:hover .service_title{
+	color: purple;
+}
+.single_service > .service_title:after {
+  background-color: purple;
+}
+.heading h3 {
+  border-bottom: 5px solid purple;
+}
+.fa-2x {
+  color: purple;
+}
+.single_team span {
+  color: purple;
+}
+.team_social a:hover,.team_social a:focus{
+	background-color: purple;
+}
+.slick-prev, .slick-next {
+  background-color: purple;
+}
+.single_price .price {
+  background-color: purple; 
+}
+.price_btn {
+  background-color: purple;
+  border: 1px solid purple;
+}
+.price_btn:hover{
+	color: purple !important;
+}
+.business_price {
+  background-color: purple !important;
+}
+.business_price .price_btn{	
+	color: purple !important;
+}
+.post_commentbox a:hover, .post_commentbox span:hover{
+	color: purple;
+}
+.read_more{
+	color: purple;	
+}
+.read_more:hover,.read_more:focus{
+	border-bottom: 2px solid purple;
+}
+.testi_media .media-body span {
+  color: purple;
+}
+.testimonial_slider .slick-dots li.slick-active button{
+  background: none repeat scroll 0 0 purple;  
+}
+.submit_btn {
+  background-color: purple;
+}
+.submit_btn:hover{
+	color: purple;
+	border-color: purple;
+}
